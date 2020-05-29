@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">AndreaReyes-examen</string>
+    <string name="twname">Usuario</string>
+    <string name="twpass">Contraseña</string>
+    <string name="btnentrar">Ingresar</string>
+    <string name="twb">Bienvenido</string>
+    <string name="twSol">Nombre:</string>
+    <string name="twPini">Pago Inicial</string>
+    <string name="twPmensual">Pago Mensual</string>
+    <string name="btnCalular">Calcular</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="twP1">¿Por qué eligió este centro?¿Por qué eligió este centro?</string>
+    <string name="twP2">¿Qué deportes practica?</string>
+    <string name="cb1">Futbol</string>
+    <string name="cb2">Basquet</string>
+    <string name="cb3">Voley</string>
+    <string name="twP3">¿Está interesado en aprender otro idioma aparte de inglés?</string>
+    <string name="rb1">SI</string>
+    <string name="rb2">NO</string>
+    <string name="btnR">Resumen</string>
 </resources>
